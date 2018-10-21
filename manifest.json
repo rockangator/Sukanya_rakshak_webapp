@@ -1,5 +1,5 @@
 {
-  "name": "Sukanya Rakshak as Progressive Web App",
+  "name": "Sukanya Rakshak PWA",
   "short_name": "Sukanya Rakshak",
   "icons": [
     {
@@ -38,12 +38,12 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#fff",
-  "theme_color": "#3f51b5",
+  "theme_color": "#696969",
   "description": "A simple sukanya rakshak PWA.",
   "dir": "ltr",
   "lang": "en-US"
